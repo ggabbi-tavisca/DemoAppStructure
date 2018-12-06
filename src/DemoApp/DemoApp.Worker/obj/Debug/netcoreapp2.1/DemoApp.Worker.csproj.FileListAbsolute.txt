@@ -1,0 +1,11 @@
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\bin\Debug\netcoreapp2.1\DemoApp.Worker.deps.json
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\bin\Debug\netcoreapp2.1\DemoApp.Worker.runtimeconfig.json
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\bin\Debug\netcoreapp2.1\DemoApp.Worker.runtimeconfig.dev.json
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\bin\Debug\netcoreapp2.1\DemoApp.Worker.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\bin\Debug\netcoreapp2.1\DemoApp.Worker.pdb
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.csprojAssemblyReference.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.AssemblyInfoInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.AssemblyInfo.cs
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Worker\obj\Debug\netcoreapp2.1\DemoApp.Worker.pdb

@@ -1,0 +1,9 @@
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\bin\Debug\netcoreapp2.1\DemoApp.Contracts.deps.json
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\bin\Debug\netcoreapp2.1\DemoApp.Contracts.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\bin\Debug\netcoreapp2.1\DemoApp.Contracts.pdb
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.csprojAssemblyReference.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.AssemblyInfoInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.AssemblyInfo.cs
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Contracts\obj\Debug\netcoreapp2.1\DemoApp.Contracts.pdb

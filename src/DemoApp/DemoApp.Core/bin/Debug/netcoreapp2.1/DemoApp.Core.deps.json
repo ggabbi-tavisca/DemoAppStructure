@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DemoApp.Core/1.0.0": {
+        "dependencies": {
+          "DemoApp.Contracts": "1.0.0",
+          "DemoApp.Plugin": "1.0.0"
+        },
+        "runtime": {
+          "DemoApp.Core.dll": {}
+        }
+      },
+      "DemoApp.Contracts/1.0.0": {
+        "runtime": {
+          "DemoApp.Contracts.dll": {}
+        }
+      },
+      "DemoApp.Plugin/1.0.0": {
+        "runtime": {
+          "DemoApp.Plugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoApp.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoApp.Plugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

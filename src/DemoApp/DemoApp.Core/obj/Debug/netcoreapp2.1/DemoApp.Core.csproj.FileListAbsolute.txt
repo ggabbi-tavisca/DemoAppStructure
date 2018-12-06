@@ -1,0 +1,14 @@
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Core.deps.json
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Core.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Core.pdb
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Contracts.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Plugin.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Contracts.pdb
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\bin\Debug\netcoreapp2.1\DemoApp.Plugin.pdb
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.csprojAssemblyReference.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.AssemblyInfoInputs.cache
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.AssemblyInfo.cs
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.csproj.CopyComplete
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.dll
+C:\Users\ggabbi\Documents\App2\src\DemoApp\DemoApp.Core\obj\Debug\netcoreapp2.1\DemoApp.Core.pdb
